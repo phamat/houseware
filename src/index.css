@@ -1,0 +1,35 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+/* @import 'antd/dist/antd.min.css'; */
+
+:root {
+  --white: #fff;
+  --text-color: #363636;
+  --primary-color: #e62e04;
+  --background-color: #eeeeee;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+circle {
+  display: none;
+}
+
+.tsqd-parent-container {
+  display: none;
+}
